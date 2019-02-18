@@ -1,0 +1,8 @@
+{
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx",
+        "typescript": "jsx",
+        "typescriptreact": "jsx"
+    }
+
+}
